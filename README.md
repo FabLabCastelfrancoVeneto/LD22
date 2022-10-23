@@ -17,7 +17,8 @@ Durante il mese di _lavoro_ andremo a definire in concerto tutti gli aspetti pec
 
 Nelle slides la prima parte è relativa alla presentazione titolata:\
 "Open source: strumento di cittadinanza attiva"\
-mentre la seconda parte è dedicata a qualche introduzione e incipit per la parte di workshop.
+mentre la seconda parte è dedicata a qualche introduzione e incipit per la parte di workshop.\
+Il workshop ha lo scopo di far incontrare designer con docente e studenti che porteranno avanti il progetto, lavorando su alcuni elementi base.\
 
 Nelle diverse cartelle il codice utilizzato o generato durante l'evento.
 
