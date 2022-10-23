@@ -23,11 +23,14 @@ Nelle diverse cartelle il codice utilizzato o generato durante l'evento.
 
 Nella parte finale del workshop abbiamo visto un ottimo esempio di portale che serve a raccogliere dati, a salvarli su db, ad organizzarli ed eventualmente elaborarli, e a graficarli.
 Ha delle API molto ben documentate, utilizza delle APIKEY, e permette di creare e condividere dashboard in maniera davvero molto semplice.
-Si tratta di [EmonCms](https://emoncms.org/), un tempo utilizzabile senza fee anche nella sua istanza pubblica, ma sempre e comunnque open source e installabile ovunque (basta una configurazione LAMP).\
+Si tratta di [Emoncms](https://emoncms.org/), un tempo utilizzabile senza fee anche nella sua istanza pubblica, ma sempre e comunnque open source e installabile ovunque (basta una configurazione LAMP).\
 Disponibile anche ISO per RaspberryPi.\
 https://github.com/emoncms/emoncms#install
 
-Per una overvew sull'uso di EmonCms e le sue API, creazione di dashboard e altri ammenicoli, è possibile ache dare una sbirciata a questo tutorial _old but gold_ (old nel senso che la UI è cambiata nel tempo):\
+
+Per una overvew sull'uso di Emoncms e le sue API, creazione di dashboard e altri ammenicoli, è possibile ache dare una sbirciata a questo tutorial _old but gold_ (old nel senso che la UI è cambiata nel tempo):\
 https://playground.arduino.cc/Italiano/Emoncms/
+
+
 
 
