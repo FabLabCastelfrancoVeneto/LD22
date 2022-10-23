@@ -17,3 +17,8 @@ E' possibile inserire nella richiesta tali campi:
 
 Es. URL:
 http://192.168.1.123:1880/test?id=0&temp=22.5&hum=35&light=512
+
+Il risultato è analogo a quanto riportato in immagine (printscreen-ato in secondo momento, purtroppo), dove a colore diverso corrisponde dispositivo diverso.
+![Screenshot dei grafici con i dati ricevuti dai sensori](https://github.com/FabLabCastelfrancoVeneto/LD22/blob/main/assets/dashboard.png?raw=true "Screenshot dei grafici con i dati ricevuti dai sensori")
+
+Maggiori informazioni sulla dashboard o sulla istanza NodeRed nella cartella dedicata.
