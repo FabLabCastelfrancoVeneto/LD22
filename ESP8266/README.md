@@ -1,6 +1,12 @@
-## ESP8266 
-Il codice per ESP8266 + DHT22 + LDR (quest'ultimo non usato durante il workshop)
-Questo codice invia una GET a una istanza di NodeRed che restituisce il JSON di quanto inviato (utile per verificare la validità della richiesta).
+## Hardware
+Durante il workshop sono state utilizzate delle NodeMCU e Wemos D1 R2 & mini, basati entrambi su ESP8266
+
+Il codice di partenza utilizzato è quello a disposizione negli esempi:
+File -> Examples -> ESP8266HTTPClient -> BasicHttpClient
+
+Dopo qualche giro di rodaggio, abbiamo aggiunto anche un sensore di temperatura / umidità DHT22 (nel codice allegato anche un LDR) e abbiamo iniziato a lavorare con delle semplici API da usare con delle chiamate GET.
+
+Il codice generato invia una chiamata GET a una istanza di NodeRed (tutto in rete locale) che restituisce il JSON di quanto inviato (utile per verificare la validità della richiesta).
 E' possibile inserire nella richiesta tali campi:
 | campo | descrizione |
 | ----- | ----------- |
