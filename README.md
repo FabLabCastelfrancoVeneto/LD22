@@ -21,12 +21,18 @@ mentre la seconda parte è dedicata a qualche introduzione e incipit per la part
 
 Nelle diverse cartelle il codice utilizzato o generato durante l'evento.
 
-Nella parte finale del workshop abbiamo visto un ottimo esempio di portale che serve a raccogliere dati, a salvarli su db, ad organizzarli ed eventualmente elaborarli, e a graficarli.
-Ha delle API molto ben documentate, utilizza delle APIKEY, e permette di creare e condividere dashboard in maniera davvero molto semplice.
+
+## WORKSHOP
+Durante il workshop sono state utilizzate delle NodeMCU e Wemos D1 R2 & mini, basati entrambi su ESP8266.\
+Era presente una istanza NodeRed per gestire le chiamate GET generate dalle schede e per generare una dashboard base.
+Nelle cartelle [ESP8266](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/ESP8266) e [NodeRed](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/NodeRed) si trovano spiegazioni e codici.\
+
+Nella parte finale del workshop abbiamo visto un ottimo esempio di portale che serve a raccogliere dati, a salvarli su db, ad organizzarli ed eventualmente elaborarli, e a graficarli.\
+Ha delle API molto ben documentate, utilizza delle APIKEY, e permette di creare e condividere dashboard in maniera davvero molto semplice.\
+
 Si tratta di [Emoncms](https://emoncms.org/), un tempo utilizzabile senza fee anche nella sua istanza pubblica, ma sempre e comunnque open source e installabile ovunque (basta una configurazione LAMP).\
 Disponibile anche ISO per RaspberryPi.\
 https://github.com/emoncms/emoncms#install
-
 
 Per una overvew sull'uso di Emoncms e le sue API, creazione di dashboard e altri ammenicoli, è possibile ache dare una sbirciata a questo tutorial _old but gold_ (old nel senso che la UI è cambiata nel tempo):\
 https://playground.arduino.cc/Italiano/Emoncms/
