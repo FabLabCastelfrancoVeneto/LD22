@@ -40,7 +40,7 @@ void setup() {
   }
 
   WiFi.mode(WIFI_STA);
-  WiFiMulti.addAP("TimUaifai", "B4ubAum1ciomic1o");
+  WiFiMulti.addAP("InventorLab", "baubaumiciomicio");
 
   dht.begin();
 }
