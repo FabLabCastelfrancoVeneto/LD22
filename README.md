@@ -18,7 +18,7 @@ Durante il mese di _lavoro_ andremo a definire in concerto tutti gli aspetti pec
 Nelle slides la prima parte è relativa alla presentazione titolata:\
 "Open source: strumento di cittadinanza attiva"\
 mentre la seconda parte è dedicata a qualche introduzione e incipit per la parte di workshop.\
-Il workshop ha lo scopo di far incontrare designer con docente e studenti che porteranno avanti il progetto, lavorando su alcuni elementi base.\
+Il workshop ha lo scopo di far incontrare designer con docente e studenti che porteranno avanti il progetto, lavorando su alcuni elementi base.
 
 Nelle diverse cartelle il codice utilizzato o generato durante l'evento.
 
@@ -29,7 +29,7 @@ Era presente una istanza NodeRed per gestire le chiamate GET generate dalle sche
 Nelle cartelle [ESP8266](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/ESP8266) e [NodeRed](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/NodeRed) si trovano spiegazioni e codici.\
 
 Nella parte finale del workshop abbiamo visto un ottimo esempio di portale che serve a raccogliere dati, a salvarli su db, ad organizzarli ed eventualmente elaborarli, e a graficarli.\
-Ha delle API molto ben documentate, utilizza delle APIKEY, e permette di creare e condividere dashboard in maniera davvero molto semplice.\
+Ha delle API molto ben documentate, utilizza delle APIKEY, e permette di creare e condividere dashboard in maniera davvero molto semplice.
 
 Si tratta di [Emoncms](https://emoncms.org/), un tempo utilizzabile senza fee anche nella sua istanza pubblica, ma sempre e comunnque open source e installabile ovunque (basta una configurazione LAMP).\
 Disponibile anche ISO per RaspberryPi.\
