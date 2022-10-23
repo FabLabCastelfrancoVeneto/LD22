@@ -1,9 +1,9 @@
 # LD22
-Materiale utilizzato durante [LinuxDay 2022 con il PNLug](https://wiki.pnlug.it/index.php?title=Linux_Day_2022).
+Materiale utilizzato durante [LinuxDay 2022 con il PNLug](https://wiki.pnlug.it/index.php?title=Linux_Day_2022).\
 Le slides sono allegate ma per fruizione migliore si consiglia di visionare la [versione online](https://bit.ly/FabLabCFV_LD22_slides).
 
-Questo Linux Day è stato dedicato ad avviare dei progetti con scuole del territorio pordenonese.
-Nella sezione "Comunicato stampa" del wiki si può trovare la modalità di svolgimento degli stessi.
+Questo Linux Day è stato dedicato ad avviare dei progetti con scuole del territorio pordenonese.\
+Nella sezione "Comunicato stampa" del wiki si può trovare la modalità di svolgimento degli stessi.\
 Abstract del progetto proposto da FabLabCFV, titolato "**Che aria tira a Pordenone**" è disponibile [qui](https://bit.ly/FabLabCFV_LD22_PropostaProgetto).
 
 Brevemente l'idea è di:
@@ -12,11 +12,22 @@ Brevemente l'idea è di:
 - pubblicare i dati raccolti su piattaforme aperte e liberamente accessibili in modo che rimangano a disposizione della cittadinanza
 - pubblicare in licenza libera tutto il necessario a replicare una centralina per contribuire alla pubblicazione di dati (che sia hardware, software o di API)
 
-Il progetto si può declinare in molto modi, usando hardware molto diverso e con sensori di diversa precisione e caratteristiche, e con le più disparate piattaforme online.
+Il progetto si può declinare in molto modi, usando hardware molto diverso e con sensori di diversa precisione e caratteristiche, e con le più disparate piattaforme online.\
 Durante il mese di _lavoro_ andremo a definire in concerto tutti gli aspetti peculiari.
 
-Nelle slides la prima parte è relativa alla presentazione titolata:
-"Open source: strumento di cittadinanza attiva"
+Nelle slides la prima parte è relativa alla presentazione titolata:\
+"Open source: strumento di cittadinanza attiva"\
 mentre la seconda parte è dedicata a qualche introduzione e incipit per la parte di workshop.
 
 Nelle diverse cartelle il codice utilizzato o generato durante l'evento.
+
+Nella parte finale del workshop abbiamo visto un ottimo esempio di portale che serve a raccogliere dati, a salvarli su db, ad organizzarli ed eventualmente elaborarli, e a graficarli.
+Ha delle API molto ben documentate, utilizza delle APIKEY, e permette di creare e condividere dashboard in maniera davvero molto semplice.
+Si tratta di [EmonCms](https://emoncms.org/), un tempo utilizzabile senza fee anche nella sua istanza pubblica, ma sempre e comunnque open source e installabile ovunque (basta una configurazione LAMP).\
+Disponibile anche ISO per RaspberryPi.\
+https://github.com/emoncms/emoncms#install
+
+Per una overvew sull'uso di EmonCms e le sue API, creazione di dashboard e altri ammenicoli, è possibile ache dare una sbirciata a questo tutorial _old but gold_ (old nel senso che la UI è cambiata nel tempo):\
+https://playground.arduino.cc/Italiano/Emoncms/
+
+
