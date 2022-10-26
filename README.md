@@ -28,6 +28,7 @@ Durante il workshop sono state utilizzate delle NodeMCU e Wemos D1 R2 & mini, ba
 
 Inizialmente abbiamo giocato con la versione [_cowsay_ per il web](http://cowsay.morecode.org/): espone infatti delle API che ci son servite per le prime sperimentazioni con le GET!
 Es: http://cowsay.morecode.org/say?message=Welcome+to+the+LinuxDay+2022%21&format=text
+```  
   _____________________________
 < Welcome to the LinuxDay 2022! >
   -----------------------------
@@ -36,7 +37,7 @@ Es: http://cowsay.morecode.org/say?message=Welcome+to+the+LinuxDay+2022%21&forma
              (__)\       )\/\
                  ||----w |
                  ||     ||
-    
+ ``` 
 
 Successivamente abbiamo usato una istanza NodeRed per gestire le chiamate GET generate dalle schede e per generare una dashboard base.
 Nelle cartelle [ESP8266](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/ESP8266) e [NodeRed](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/NodeRed) si trovano spiegazioni e codici.
