@@ -24,9 +24,22 @@ Nelle diverse cartelle il codice utilizzato o generato durante l'evento.
 
 
 ## WORKSHOP
-Durante il workshop sono state utilizzate delle NodeMCU e Wemos D1 R2 & mini, basati entrambi su ESP8266.\
-Era presente una istanza NodeRed per gestire le chiamate GET generate dalle schede e per generare una dashboard base.
-Nelle cartelle [ESP8266](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/ESP8266) e [NodeRed](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/NodeRed) si trovano spiegazioni e codici.\
+Durante il workshop sono state utilizzate delle NodeMCU e Wemos D1 R2 & mini, basati entrambi su ESP8266.
+
+Inizialmente abbiamo giocato con la versione [_cowsay_ per il web](http://cowsay.morecode.org/): espone infatti delle API che ci son servite per le prime sperimentazioni con le GET!
+Es: http://cowsay.morecode.org/say?message=Welcome+to+the+LinuxDay+2022%21&format=text
+  _____________________________
+< Welcome to the LinuxDay 2022! >
+  -----------------------------
+         \   ^__^ 
+          \  (oo)\_______
+             (__)\       )\/\
+                 ||----w |
+                 ||     ||
+    
+
+Successivamente abbiamo usato una istanza NodeRed per gestire le chiamate GET generate dalle schede e per generare una dashboard base.
+Nelle cartelle [ESP8266](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/ESP8266) e [NodeRed](https://github.com/FabLabCastelfrancoVeneto/LD22/tree/main/NodeRed) si trovano spiegazioni e codici.
 
 Nella parte finale del workshop abbiamo visto un ottimo esempio di portale che serve a raccogliere dati, a salvarli su db, ad organizzarli ed eventualmente elaborarli, e a graficarli.\
 Ha delle API molto ben documentate, utilizza delle APIKEY, e permette di creare e condividere dashboard in maniera davvero molto semplice.
