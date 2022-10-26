@@ -12,7 +12,9 @@ Brevemente l'idea è di:
 - pubblicare i dati raccolti su piattaforme aperte e liberamente accessibili in modo che rimangano a disposizione della cittadinanza
 - pubblicare in licenza libera tutto il necessario a replicare una centralina per contribuire alla pubblicazione di dati (che sia hardware, software o di API)
 
-Il progetto si può declinare in molto modi, usando hardware molto diverso e con sensori di diversa precisione e caratteristiche, e con le più disparate piattaforme online.\
+La BOM iniziale, basata su boards Arduino e componentistica Grove, è consultabile [qui](https://docs.google.com/spreadsheets/d/1swc3DrkzETfq-Hcxf-gDfhqMkQF7iEYfKu3uqVptHMQ/edit#gid=0).\
+Il progetto si può chiaramente declinare in molto modi, usando hardware molto diverso e con sensori di diversa precisione e caratteristiche, e con le più disparate piattaforme online.\
+
 Durante il mese di _lavoro_ andremo a definire in concerto tutti gli aspetti peculiari.
 
 Nelle slides la prima parte è relativa alla presentazione titolata:\
